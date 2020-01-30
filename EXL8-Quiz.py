@@ -10,8 +10,6 @@ import random
 import time
 import os
 
-
-
 def capital_quiz():
 	os.system('clear')
 
@@ -64,5 +62,3 @@ os.system('clear')
 print('\nWelcome to "Quiz" project.\n\nThere will be 5 questions.\nChose the right answer !')
 time.sleep(3)
 capital_quiz()
-
-
